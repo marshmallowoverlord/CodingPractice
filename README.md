@@ -17,8 +17,8 @@ Coding challenges/practice
 11|[Count Div](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/05_PrefixSums/CountDiv)|Medium|C#
 12|[Genomic Range Query](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/05_PrefixSums/GenomicRangeQuery)|Medium|C#
 13|[Min Avg Two Slice](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/05_PrefixSums/MinAvgTwoSlice)|Medium|C#
-14|[Passing Cars](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/05_PrefixSums/PassingCars)|Easy|C#
-15|[Triangle](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/05_Sorting/Triangle)|Easy|C#
-16|[Max Product Of Three](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/05_Sorting/MaxProductOfThree)|Easy|C#
-17|[Distinct](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/05_Sorting/Distinct)|Easy|C#
-18|[Number Of Disc Intersections](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/05_Sorting/NumberOfDiscIntersections)|Medium|C#
+14|[Passing Cars](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/06_PrefixSums/PassingCars)|Easy|C#
+15|[Triangle](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/06_Sorting/Triangle)|Easy|C#
+16|[Max Product Of Three](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/06_Sorting/MaxProductOfThree)|Easy|C#
+17|[Distinct](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/06_Sorting/Distinct)|Easy|C#
+18|[Number Of Disc Intersections](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/06_Sorting/NumberOfDiscIntersections)|Medium|C#
