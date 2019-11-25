@@ -24,3 +24,9 @@ Coding challenges/practice
 16|[Max Product Of Three](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/06_Sorting/MaxProductOfThree)|Easy|C#
 17|[Distinct](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/06_Sorting/Distinct)|Easy|C#
 18|[Number Of Disc Intersections](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/06_Sorting/NumberOfDiscIntersections)|Medium|C#
+19|[Brackets](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/07_StacksAndQueues/Brackets)|Easy|C#
+20|[Fish](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/07_StacksAndQueues/Fish)|Easy|C#
+21|[Nesting](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/07_StacksAndQueues/Nesting)|Easy|C#
+22|[Stone Wall](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/07_StacksAndQueues/StoneWall)|Easy|C#
+23|[Dominator](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/08_Leader/Dominator)|Easy|C#
+24|[EquiLeader](https://github.com/marshmallowoverlord/CodingPractice/tree/master/Codility/08_Leader/EquiLeader)|Easy|C#
