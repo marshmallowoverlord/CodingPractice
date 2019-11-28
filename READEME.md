@@ -36,4 +36,4 @@ Coding challenges/practice
 
 #|Title|Difficulty|Language
 --|----|----------|----------
-1|[1D Spread Sheet](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/OneDSpreadSheet)|Easy|C#
+1|[1D Spread Sheet](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/1DSpreadSheet)|Easy|C#
