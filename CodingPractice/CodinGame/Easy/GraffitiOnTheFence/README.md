@@ -11,12 +11,12 @@ which means painting is done from [starting point] to [ending point].
 We take only integer readings.
 
 Example
-
+```
     st      ed
     !░░░░░░░░!
  +--+--+--+--+--+--
  0  1  2  3  4  5
-
+```
 st = 1
 ed = 4
 painted length = 3
