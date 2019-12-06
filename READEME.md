@@ -37,3 +37,5 @@ Coding challenges/practice
 #|Title|Difficulty|Language
 --|----|----------|----------
 1|[1D Spread Sheet](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/1DSpreadSheet)|Easy|C#
+2|[Unit Functions](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/UnitFunctions)|Easy|C#
+3|[Graffiti On The Fence](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/GraffitiOnTheFence)|Easy|C#
