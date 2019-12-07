@@ -4,15 +4,16 @@ Thanks to your help, Detective Pikaptcha was able to get a sense of where he was
 “Time to test a good old trick and see what happens: follow a wall and keep a count for each cell of how many times I stepped into it.”
 
 Your objective is to write a program that will compute, for each cell of a maze, the number of times Pikaptcha will step into the cell by following a wall until he reaches his original location.
-wall-following
+
+![img](https://github.com/marshmallowoverlord/CodingPractice/blob/master/CodingPractice/CodinGame/Easy/DetectivePikaptcha2/example.png)
 
 ## Rules
 The maze is given to you as a grid filled with 0s and #s, where 0 represents a passage, and # represents a wall: an impassable cell.
 The initial position and direction of Pikaptcha is given to you in the grid as a special character:
-* >: facing right
-* v: facing down
-* <: facing left
-* ^: facing up
+* ```>: facing right```
+* ```v: facing down```
+* ```<: facing left```
+* ```^: facing up```
 
 An additional character indicates which wall Pikaptcha must follow:
 * R for the wall on his right
