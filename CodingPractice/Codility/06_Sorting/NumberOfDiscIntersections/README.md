@@ -9,7 +9,7 @@ The figure below shows discs drawn for N = 6 and A as follows:
 
 ```A[0] = 1 A[1] = 5 A[2] = 2 A[3] = 1 A[4] = 4 A[5] = 0```
 
-![img](https://github.com/marshmallowoverlord/CodingPractice/blob/master/Codility/06_Sorting/NumberOfDiscIntersections/Intersect.png)
+![img](https://github.com/marshmallowoverlord/CodingPractice/blob/master/CodingPractice/Codility/06_Sorting/NumberOfDiscIntersections/Intersect.png)
 
 There are eleven (unordered) pairs of discs that intersect, namely:
 *	discs 1 and 4 intersect, and both intersect with all the other discs;
