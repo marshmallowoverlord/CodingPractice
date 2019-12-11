@@ -41,3 +41,17 @@ Coding challenges/practice
 3|[Graffiti On The Fence](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/GraffitiOnTheFence)|Easy|C#
 4|[Detective Pikaptcha EP1](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/DetectivePikaptcha)|Easy|C#
 5|[Detective Pikaptcha EP2](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/DetectivePikaptcha2)|Easy|C#
+6|[Brackets Extreme Edition](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/BracketsExtremeEdition)|Easy|C#
+7|[A Childs Play](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/AChildsPlay)|Easy|C#
+8|[Credit Card Verifier](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/CreditCardVerifier)|Easy|C#
+9|[Brick In The Wall](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/BrickInTheWall)|Easy|C#
+10|[Self Driving Car Testing](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/SelfDrivingCarTesting)|Easy|C#
+11|[Rectangle Partition](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/RectanglePartition)|Easy|C#
+12|[Are The Clumps Normal](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/AreTheClumpsNormal)|Easy|C#
+13|[Add Em Up](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/AddEmUp)|Easy|C#
+14|[Dolbears Law](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/DolbearsLaw)|Easy|C#
+15|[Smooth](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/Smooth)|Easy|C#
+16|[Horse Racing Hyperduals](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/HorseRacingHyperduals)|Easy|C#
+
+## Disclaimer
+**Note:** the vast majority of these solutions have not been written to be beautiful but rather so they work functionally to solve the problem. The plan will be to clean up and optimise the solutions in the future. Adding explainations and possibly other programming languages is also in the backlog.
