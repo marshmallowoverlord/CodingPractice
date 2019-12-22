@@ -52,6 +52,15 @@ Coding challenges/practice
 14|[Dolbears Law](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/DolbearsLaw)|Easy|C#
 15|[Smooth](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/Smooth)|Easy|C#
 16|[Horse Racing Hyperduals](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/HorseRacingHyperduals)|Easy|C#
+17|[The Dart 101](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/TheDart101)|Easy|C#
+18|[Rectangular Block Spinner](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/RectangularBlockSpinner)|Easy|C#
+19|[Monday Tuesday Happy Days](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/MondayTuesdayHappyDays)|Easy|C#
+19|[Mandelbrot](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/Mandelbrot)|Easy|C#
+20|[Longest Sequence Of 1](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/LongestSequenceOf1)|Easy|C#
+21|[Jack Silver The Casino](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/JackSilverTheCasino)|Easy|C#
+22|[Hunger Games](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/HungerGames)|Easy|C#
+23|[Stall Tilt](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/StallTilt)|Easy|C#
+24|[ISBN Check Digit](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/ISBNCheckDigit)|Easy|C#
 
 ## Disclaimer
 **Note:** the vast majority of these solutions have not been written to be beautiful but rather so they work functionally to solve the problem. The plan will be to clean up and optimise the solutions in the future. Adding explainations and possibly other programming languages is also in the backlog.
