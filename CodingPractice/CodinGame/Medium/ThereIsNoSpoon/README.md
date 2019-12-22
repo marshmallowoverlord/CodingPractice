@@ -26,14 +26,18 @@ In this example, there are three nodes in a 2 by 2 grid. The cell at (1,1) is em
  
 The node at (0,0) has 2 neighbors.
 0 0 1 0 0 1
-![img](https://github.com/marshmallowoverlord/CodingPractice/blob/master/CodingPractice/CodinGame/Medium/ThereIsNoSpoon/0.png)
+
+<img src="https://github.com/marshmallowoverlord/CodingPractice/blob/master/CodingPractice/CodinGame/Medium/ThereIsNoSpoon/0.png" width="300">
  
 The node at (1,0) has no neighbors.
 1 0 -1 -1 -1 -1
-![img](https://github.com/marshmallowoverlord/CodingPractice/blob/master/CodingPractice/CodinGame/Medium/ThereIsNoSpoon/1.png) 
+
+<img src="https://github.com/marshmallowoverlord/CodingPractice/blob/master/CodingPractice/CodinGame/Medium/ThereIsNoSpoon/1.png" width="300"> 
+
 The node at (0,1) has no neighbors.
 0 1 -1 -1 -1 -1
-![img](https://github.com/marshmallowoverlord/CodingPractice/blob/master/CodingPractice/CodinGame/Medium/ThereIsNoSpoon/2.png)
+
+<img src="https://github.com/marshmallowoverlord/CodingPractice/blob/master/CodingPractice/CodinGame/Medium/ThereIsNoSpoon/2.png" width="300">
 
 ## Game Input
 The program must first read the initialization data from standard input. Then, provide to the standard output one line per instruction.
