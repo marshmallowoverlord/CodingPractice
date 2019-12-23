@@ -48,37 +48,33 @@ The program must first read the initialization data from standard input. Then, w
 ### Initialization input
 
 <img src="https://github.com/marshmallowoverlord/CodingPractice/blob/master/CodingPractice/CodinGame/Medium/ShadowsOfTheKnight/example0.png" width="300">
-```
-10 10     Building has 100 windows (10x10)
+
+```10 10     Building has 100 windows (10x10)
 6         Batman has 6 jumps to find the bombs
 2 5       Batman starts at position (2,5)
-
 No output expected
 ```
 
 <img src="https://github.com/marshmallowoverlord/CodingPractice/blob/master/CodingPractice/CodinGame/Medium/ShadowsOfTheKnight/example1.png" width="300">
-```
-Input for turn 1
+
+```Input for turn 1
 UR
 Hostages are in the upward-right direction
-
 Output for turn 1
 5 4
 Batman jumps to window (5,4)
 ```
 
 <img src="https://github.com/marshmallowoverlord/CodingPractice/blob/master/CodingPractice/CodinGame/Medium/ShadowsOfTheKnight/example2.png" width="300">
-```
-Input for turn 2
+
+```Input for turn 2
 R
 Hostages are located to the right of Batman
-
 Output for turn 2
 7 4
 Batman jumps to window (7,4)
 ```
 
 <img src="https://github.com/marshmallowoverlord/CodingPractice/blob/master/CodingPractice/CodinGame/Medium/ShadowsOfTheKnight/example3.png" width="300">
-```
-Batman found the hostages. He can defuse the bombs in time. You win!
-```
+
+```Batman found the hostages. He can defuse the bombs in time. You win!```
