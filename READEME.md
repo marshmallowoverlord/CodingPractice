@@ -62,6 +62,7 @@ Coding challenges/practice
 23|[Stall Tilt](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/StallTilt)|Easy|C#
 24|[ISBN Check Digit](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Easy/ISBNCheckDigit)|Easy|C#
 25|[There Is No Spoon - Episode 1](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Medium/ThereIsNoSpoon)|Medium|C#
+26|[Shadows of the Knight - Episode 1](https://github.com/marshmallowoverlord/CodingPractice/tree/master/CodingPractice/CodinGame/Medium/ShadowsOfTheKnight)|Medium|C#
 
 ## Disclaimer
 **Note:** the vast majority of these solutions have not been written to be beautiful but rather so they work functionally to solve the problem. The plan will be to clean up and optimise the solutions in the future. Adding explainations and possibly other programming languages is also in the backlog.
